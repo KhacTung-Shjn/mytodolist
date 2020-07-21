@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="Maxim">Việc hôm này chớ để ngày mai</string>
+    <string name="MaximHistory">Hoàn thành công việc</string>
+    <string name="MaximPlan">Lập kế hoạch để hoàn thành tốt công việc</string>
+    <string name="Modify">Sửa</string>
+    <string name="about">Thông tin</string>
+    <string name="background">Hình nền</string>
+    <string name="close">Thoát</string>
+    <string name="detail_fragment_item_today">Thông tin kế hoạch</string>
+    <string name="english">Tiếng Anh</string>
+    <string name="hint_edit_text">Hãy điền nội dung thông tin</string>
+    <string name="language">Ngôn ngữ</string>
+    <string name="level1">Cấp 1</string>
+    <string name="level2">Cấp 2</string>
+    <string name="level3">Cấp 3</string>
+    <string name="no">Không</string>
+    <string name="rate">Đánh giá</string>
+    <string name="remove">Xóa</string>
+    <string name="save">Lưu</string>
+    <string name="snackbar_modify">Sửa thành công !!!</string>
+    <string name="snackbar_remove">Xóa thành công !!!</string>
+    <string name="snackbar_success">Thêm Thành Công !!!</string>
+    <string name="title_add">Thêm</string>
+    <string name="title_fragment_add">Thêm kế hoạch</string>
+    <string name="title_history">Lịch sử</string>
+    <string name="title_plan">Kế hoạch</string>
+    <string name="title_setting">Cài đặt</string>
+    <string name="title_today">Hôm nay</string>
+    <string name="vietnamese">Tiếng Việt</string>
+    <string name="yes">Có</string>
+    <string name="snackbar_language">Chỉnh ngôn ngữ thành công !!!</string>
+</resources>

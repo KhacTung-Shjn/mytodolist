@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/auto_margin"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tvSetting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_setting"
+        android:textSize="30dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btnRate"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/radio_height"
+        android:layout_margin="@dimen/auto_margin"
+        android:background="@drawable/background_radio"
+        android:drawableStart="@drawable/ic_sentiment_very_satisfied_black_24dp"
+        android:padding="@dimen/auto_margin"
+        android:text="@string/rate" />
+
+    <Button
+        android:id="@+id/btnLanguage"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/radio_height"
+        android:layout_margin="@dimen/auto_margin"
+        android:background="@drawable/background_radio"
+        android:drawableStart="@drawable/ic_language_black_24dp"
+        android:padding="@dimen/auto_margin"
+        android:text="@string/language" />
+
+    <Button
+        android:id="@+id/btnAbout"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/radio_height"
+        android:layout_margin="@dimen/auto_margin"
+        android:background="@drawable/background_radio"
+        android:drawableStart="@drawable/ic_person_black_24dp"
+        android:padding="@dimen/auto_margin"
+        android:text="@string/about" />
+
+    <Button
+        android:id="@+id/btnBackGround"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/radio_height"
+        android:layout_margin="@dimen/auto_margin"
+        android:background="@drawable/background_radio"
+        android:drawableStart="@drawable/ic_image_black_24dp"
+        android:padding="@dimen/auto_margin"
+        android:text="@string/background" />
+</LinearLayout>

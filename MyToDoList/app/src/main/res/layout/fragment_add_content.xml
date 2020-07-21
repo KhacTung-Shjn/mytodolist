@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnNgay"
+            style="@style/ThemeButton"
+            android:drawableStart="@drawable/ic_assignment_black_24dp"
+            android:text="25/06/1998" />
+
+        <Button
+            android:id="@+id/btnGio"
+            style="@style/ThemeButton"
+            android:drawableStart="@drawable/ic_access_time_black_24dp"
+            android:text="00:00" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnLevel"
+            style="@style/ThemeButton"
+            android:drawableStart="@drawable/ic_whatshot_black_24dp"
+            android:text="Level 1" />
+
+        <Button
+            android:id="@+id/btnAlarm"
+            style="@style/ThemeButton"
+            android:drawableStart="@drawable/ic_add_alarm_black_24dp"
+            android:text="Yes" />
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/etPlan"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/radio_height"
+        android:layout_margin="@dimen/auto_margin"
+        android:background="@drawable/background_radio"
+        android:drawableStart="@drawable/ic_writing"
+        android:gravity="center"
+        android:hint="@string/hint_edit_text"
+        android:padding="@dimen/auto_margin"
+        android:singleLine="true" />
+</LinearLayout>

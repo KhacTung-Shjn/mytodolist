@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginBottom="@dimen/auto_margin"
+        android:layout_marginTop="@dimen/auto_margin"
+        android:id="@+id/ivBackground"
+        android:layout_width="@dimen/backroundItem_width"
+        android:layout_height="@dimen/backroundItem_height"
+        android:src="@drawable/hinhnen0">
+    </ImageView>
+</LinearLayout>

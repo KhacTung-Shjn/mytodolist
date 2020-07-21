@@ -1,0 +1,11 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="auto_margin">16dp</dimen>
+    <dimen name="margin_ten">10dp</dimen>
+    <dimen name="radio_height">60dp</dimen>
+    <dimen name="detail_item_margin">30dp</dimen>
+    <dimen name="backroundItem_width">160dp</dimen>
+    <dimen name="backroundItem_height">220dp</dimen>
+</resources>

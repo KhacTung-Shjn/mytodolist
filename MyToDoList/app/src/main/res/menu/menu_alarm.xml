@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menuYes"
+        android:icon="@drawable/ic_sentiment_very_satisfied_black_24dp"
+        android:title="@string/yes" />
+    <item
+        android:id="@+id/menuNo"
+        android:icon="@drawable/ic_sentiment_dissatisfied_black_24dp"
+        android:title="@string/no" />
+</menu>

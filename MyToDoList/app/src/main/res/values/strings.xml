@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyToDoList</string>
+    <string name="title_today">Today</string>
+    <string name="title_plan">Plan</string>
+    <string name="title_add">Add</string>
+    <string name="title_history">History</string>
+    <string name="title_setting">Setting</string>
+    <string name="title_fragment_add">Add Task Plan</string>
+    <string name="detail_fragment_item_today">Detail Task Plan</string>
+    <string name="hint_edit_text">Please fill in the task plan</string>
+    <string name="save">Save</string>
+    <string name="close">Close</string>
+    <string name="remove">Remove</string>
+    <string name="Modify">Modify</string>
+    <string name="Maxim">Today"'"s works should have not left till tomorrow</string>
+    <string name="MaximPlan">Plan to have good results</string>
+    <string name="MaximHistory">complete mission !</string>
+    <string name="rate">Rate</string>
+    <string name="language">Language</string>
+    <string name="about">About</string>
+    <string name="background">Background</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="level1">Level 1</string>
+    <string name="level2">Level 2</string>
+    <string name="level3">Level 3</string>
+    <string name="vietnamese">VietNamese</string>
+    <string name="english">English</string>
+    <string name="snackbar_success">Successful !!!</string>
+    <string name="snackbar_modify"> Modify Successful !!!</string>
+    <string name="snackbar_remove"> Remove Successful !!!</string>
+    <string name="snackbar_language"> Change Language Successful !!!</string>
+    <string name="channel_name" translatable="false">channel_name</string>
+    <string name="channel_description" translatable="false">channel_description</string>
+</resources>
